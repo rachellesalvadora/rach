@@ -26,3 +26,28 @@
 				
 			</div>
 		</div>
+
+		<div class="grid__item one-whole bg-3">
+		<div id="cs50" class="container top-60 cs50">
+			<h1>CS50 - Introduction to Computer Science | edX </h1>
+			<h2>'Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard course'</h2>
+
+			<p class="grid__item one-quarter">
+				You can view my certified certificate here:
+				<img  src="img/cs50-certificate.png" alt="CS50 Certificate" />
+				<a href="https://os.dce.harvard.edu/dce-public/certificate/verify/4c12a86a-341c-4d0b-bba4-db6385551aef">Verified link</a>
+			</p>
+			<p class="grid__item two-thirds">CS50 Was an Introduction to Computer Science MOOC offered through Harvard University through edX. The course was designed to teach studnets how to think algorithmically and solve problems efficiently. <br/><br/>
+				There were multiple ways to take the course,
+				I chose the $350 Harvard CS50 Certificate.<br/>
+				<br/> I came from not knowing any coding language, never touching a code editor in my life, to creating for loops, if statements, variables in C, PHP, JavaScript and even making web pages using SQL / CSS and HTML. <br/><br/>
+				CS50 is being offered again late 2014 and 2015 as far as I know. It's a great stepping stone for anyone who wants to get serious with Computer Science.
+				<img  src="img/cs50-certificate.png" alt="CS50 Certificate" />
+			</p>
+			
+		</div>
+	</div>
+
+
+
+
