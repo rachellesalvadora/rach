@@ -39,7 +39,7 @@
 			</p>
 			<p class="grid__item two-thirds">CS50 Was an Introduction to Computer Science MOOC offered through Harvard University through edX. The course was designed to teach studnets how to think algorithmically and solve problems efficiently. <br/><br/>
 				There were multiple ways to take the course,
-				I chose the $350 Harvard CS50 Certificate.<br/>
+				I chose to take the one straight from Harvard University with a verified certificate, Senior lecturer on Computer Science of Harvard University, <a href="http://cs.harvard.edu/malan">David Malan</a>'s Signature and Huntington D. Lambert, Dean of Harvard Extension School.<br/>
 				<br/> I came from not knowing any coding language, never touching a code editor in my life, to creating for loops, if statements, variables in C, PHP, JavaScript and even making web pages using SQL / CSS and HTML. <br/><br/>
 				CS50 is being offered again late 2014 and 2015 as far as I know. It's a great stepping stone for anyone who wants to get serious with Computer Science.
 				<img  src="img/cs50-certificate.png" alt="CS50 Certificate" />
