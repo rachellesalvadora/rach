@@ -1,0 +1,61 @@
+body {
+margin: 0;
+font-family: 'Poiret One', cursive;
+}
+
+.grid .wrap {
+width: 1021px;
+margin: 0 auto;
+}
+
+div {
+display: block;
+}
+
+img.bg-rach-img {
+width: 100%;
+visibility: hidden;
+}
+
+ul.nav.nav--banner.nav-top {
+display: inline-flex;
+position: fixed;
+}
+
+li.nav-top-li {
+display: table-row-group;
+margin: 10px;
+}
+
+.grid__item.one-whole.bg-1 {
+background-image: url("../img/bg-rach.jpg");
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.grid .bg-1 ul {
+float: center;
+padding: 30px;
+}
+
+.grid .bg-1 ul li {
+padding: 5px 20px;
+}
+
+.grid .bg-1 ul li a {
+text-decoration: none;
+color: rgb(229, 229, 229);
+text-shadow: 2px 2px 21px white;
+font-weight: bold;
+}
+
+.grid .bg-1 ul li a:hover {
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px 21px white;
+  }
+
+ul.nav.nav--banner.nav-top {
+display: inline-flex;
+position: relative;
+}
