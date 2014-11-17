@@ -46,14 +46,21 @@
 		<div class="grid__item one-whole bg-2">
 
 			<div id="about" class="container top-100">
-				<h1>Hi, I'm Rachelle Salvadora.</h1>
-				<p>
+				<h1 class="h1-rachelle">Hi, I'm Rachelle Salvadora.</h1>
+
+				<p class="grid__item one-quarter">
+				You can view my certified certificate here:
+				<img  src="img/cs50-certificate.png" alt="CS50 Certificate" />
+				<a href="https://os.dce.harvard.edu/dce-public/certificate/verify/4c12a86a-341c-4d0b-bba4-db6385551aef">Verified link</a>
+			</p>
+				<p class="p-rachelle">
 					I'm from Taguig, Philippines, Not too long ago I was studying a Bachelor of Arts.<br/>
-					Web Development was <strong>completely foreign</strong> to me 10 months ago.
-					Since then I've completed Harvard's CS50 Intro to Computer Science, Learnt a few CMS, Languages, Frameworks, Extensions, Command line, Git, Database and so many other stuff.<strong></strong><br/>
+					I love art and design but when I learn HTML and CSS, I was challenged to do my express art in code. Then I realize there's so much more to it. I am unaware that I was getting addicted to it. With my eagerness to learn it deeply I took different courses from variety of online school around the internet. I learn something new from each of them but the most rewarding was Harvard's CS50 Intro to Computer Science.
+					Learnt a few CMS, Languages, Frameworks, Extensions, Command line, Git, Database and so many other stuff.<strong></strong><br/>
 					<strong>I'm having a lot of fun </strong>playing around the tools and techniques that I see around around the internet towards front end web development.<br/>
 
 				<br/><br/>
+
 				
 			</p>
 		</div>
