@@ -3,6 +3,11 @@ margin: 0;
 font-family: 'Poiret One', cursive;
 }
 
+span {
+font-weight: bolder;
+color: rgb(169, 5, 5);
+}
+
 .grid .wrap {
 width: 1021px;
 margin: 0 auto;
@@ -67,24 +72,45 @@ position: relative;
 /**********************
 About
 **************************/
+
+#about {
+padding: 100px 0;
+}
+
 .grid__item.one-whole.bg-2 {
 width: 1024px;
 margin: 0 auto;
 }
 
+.p-rachelle {
+font-size: 26px;
+font-family: 'Open Sans', sans-serif;
+}
 
+img.cs50-img {
+width: 250px;
+}
 
+p.grid__item.one-quarter {
+width: 400px;
+float: right;
+margin-left: 30px;
+font-family: 'Open Sans', sans-serif;
+}
 
+.h1-rachelle {
+font-size: -webkit-xxx-large;
+}
 
 /*************************
 
 **************************/
-.cs50 {
+.partner {
 	width: 1024px;
 	margin: 0 auto;
 }
 
-.grid__item.one-whole.bg-3 {
+.grid__item.one-whole.bg-4 {
 background-color: lightblue;
 padding: 43px 0;
 }

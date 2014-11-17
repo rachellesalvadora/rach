@@ -7,6 +7,7 @@
 	<title>Rachelle Salvadora</title> 
 	<link rel="stylesheet" href="css/style.css">
 	<link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
@@ -47,17 +48,27 @@
 
 			<div id="about" class="container top-100">
 				<h1 class="h1-rachelle">Hi, I'm Rachelle Salvadora.</h1>
-
 				<p class="grid__item one-quarter">
 				You can view my certified certificate here:
-				<img  src="img/cs50-certificate.png" alt="CS50 Certificate" />
+				<br/><br/>
+				<img  class="cs50-img" src="img/cs50-certificate.png" alt="CS50 Certificate" />
+				<br/><br/>
 				<a href="https://os.dce.harvard.edu/dce-public/certificate/verify/4c12a86a-341c-4d0b-bba4-db6385551aef">Verified link</a>
 			</p>
-				<p class="p-rachelle">
-					I'm from Taguig, Philippines, Not too long ago I was studying a Bachelor of Arts.<br/>
-					I love art and design but when I learn HTML and CSS, I was challenged to do my express art in code. Then I realize there's so much more to it. I am unaware that I was getting addicted to it. With my eagerness to learn it deeply I took different courses from variety of online school around the internet. I learn something new from each of them but the most rewarding was Harvard's CS50 Intro to Computer Science.
-					Learnt a few CMS, Languages, Frameworks, Extensions, Command line, Git, Database and so many other stuff.<strong></strong><br/>
+
+
+				<p class="p-rachelle" class="grid__item two-thirds">
+					I'm from Taguig, Philippines, Not too long ago I was studying a Bachelor of Arts.<br/><br/>
+					I love <span>art and design</span> but when I learn <span>web development</span>, I challenged myself to express art in code. It was <span>HTML and CSS</span> at first. Then I realize there's so much more to it. With my eagerness to learn it deeply I took different courses from variety of online school around the internet. I learn something new from each of them but the most rewarding was <span>Harvard's CS50 Intro to Computer Science</span>.
+				</br></br>
+					Check the link on the right. It has the Signature of the Senior lecturer on Computer Science of Harvard University, <a href="http://cs.harvard.edu/malan">David Malan</a> and Huntington D. Lambert, Dean of Harvard Extension School.
+					<br/><br/>
+					I've Learnt a few CMS, Languages, Frameworks, Extensions,  Command line, Git, Database and so many other stuff that I've never known before.<strong></strong><br/>
 					<strong>I'm having a lot of fun </strong>playing around the tools and techniques that I see around around the internet towards front end web development.<br/>
+				</br>
+					
+
+					
 
 				<br/><br/>
 
@@ -69,29 +80,8 @@
 
 
 
-		<div class="grid__item one-whole bg-3">
-		<div id="cs50" class="container top-60 cs50">
-			<h1>CS50 - Introduction to Computer Science | edX </h1>
-			<h2>'Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard course'</h2>
-
-			<p class="grid__item one-quarter">
-				You can view my certified certificate here:
-				<img  src="img/cs50-certificate.png" alt="CS50 Certificate" />
-				<a href="https://os.dce.harvard.edu/dce-public/certificate/verify/4c12a86a-341c-4d0b-bba4-db6385551aef">Verified link</a>
-			</p>
-			<p class="grid__item two-thirds">CS50 Was an Introduction to Computer Science MOOC offered through Harvard University through edX. The course was designed to teach studnets how to think algorithmically and solve problems efficiently. <br/><br/>
-				There were multiple ways to take the course,
-				I chose to take the one with a verified certificate, Senior lecturer on Computer Science of Harvard University, <a href="http://cs.harvard.edu/malan">David Malan</a>'s and Huntington D. Lambert, Dean of Harvard Extension School signature.<br/>
-				<br/> I came from not knowing any coding language, never touching a code editor in my life, to creating for loops, if statements, variables in C, PHP, JavaScript and even making web pages using SQL / CSS and HTML. <br/><br/>
-				CS50 is being offered again late 2014 and 2015 as far as I know. It's a great stepping stone for anyone who wants to get serious with Computer Science.
-				<img  src="img/cs50-certificate.png" alt="CS50 Certificate" />
-			</p>
-			
-		</div>
-	</div>
-
 	<div class="grid__item one-whole bg-4">
-		<div id="mypartner" class="container top-60">
+		<div id="mypartner" class="container top-60 partner">
 			<div class="grid__item one-quarter">
 				<img src="img/gandr2.png" alt="g and r"/>
 			</div>
