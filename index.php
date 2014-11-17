@@ -16,16 +16,19 @@
 			<div class="wrap top-30">
 
 				<ul class="nav nav--banner nav-top">
-					<li class="nav-top-li"><a href="#mypartner">About</a></li>
+					<li class="nav-top-li"><a href="#about">About</a></li>
 					<li class="nav-top-li"><a href="#mypartner">My Partner</a></li>
 					<li class="nav-top-li"><a href="#philippines">Philippines Holiday</a></li>
 					<li class="nav-top-li"><a href="#singapore">Singapore Holiday</a></li>
 					<li class="nav-top-li"><a href="#contact">Contact</a></li>
 					<li class="nav-top-li"><em><a href="http://blog.rachellesalvadora.com" target="_blank">My Blog</a></em></li>
 				</ul>
-				<ul class="nav nav--banner nav-top">
-					<li class="nav-top-li top-rachelle"><a href="#cs50" class="top-rachelle-a">Rachelle</a></li>
+
+				
+				<ul class="nav-rachelle">
+					<li class="nav-top-li top-rachelle"><a href="#cs50" class="top-rachelle-a"></a></li>
 				</ul>
+
 
 							</div>
 			
@@ -38,6 +41,26 @@
 				
 
 		</div>
+
+
+		<div class="grid__item one-whole bg-2">
+
+			<div id="about" class="container top-100">
+				<h1>Hi, I'm Rachelle Salvadora.</h1>
+				<p>
+					I'm from Taguig, Philippines, Not too long ago I was studying a Bachelor of Arts.<br/>
+					Web Development was <strong>completely foreign</strong> to me 10 months ago.
+					Since then I've completed Harvard's CS50 Intro to Computer Science, Learnt a few CMS, Languages, Frameworks, Extensions, Command line, Git, Database and so many other stuff.<strong></strong><br/>
+					<strong>I'm having a lot of fun </strong>playing around the tools and techniques that I see around around the internet towards front end web development.<br/>
+
+				<br/><br/>
+				
+			</p>
+		</div>
+
+	</div>
+
+
 
 		<div class="grid__item one-whole bg-3">
 		<div id="cs50" class="container top-60 cs50">
